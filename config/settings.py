@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'niceApp',
 ]
 
+# hi all
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
